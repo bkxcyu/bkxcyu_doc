@@ -7,19 +7,5 @@ Welcome to tutorial's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-# 这是一个标题
-公式:
-$\mathbf{x}$
-## 这是一个二级标题
+   mdtest.md
+   FT_Interactive_animation.ipynb
