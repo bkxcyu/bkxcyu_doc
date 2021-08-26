@@ -3,9 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to tutorial's documentation!
+Welcome to bkxcyu's documentation!
 ====================================
 
 .. toctree::
-   mdtest.md
    FT_Interactive_animation.md
