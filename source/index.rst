@@ -8,4 +8,3 @@ Welcome to tutorial's documentation!
 
 .. toctree::
    mdtest.md
-   FT_Interactive_animation.ipynb
