@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'demo'
+project = 'BCI Intuition'
 copyright = '2021, bkxcyu'
 author = 'bkxcyu'
 

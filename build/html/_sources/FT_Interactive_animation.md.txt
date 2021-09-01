@@ -4,7 +4,7 @@
 
 其实,从在课堂上学到傅利叶变换后的很长一段时间里我都还没有领会到其妙处,直到我看到了这个视频: 
 
-<iframe src="//player.bilibili.com/player.html?aid=19141078&bvid=BV1pW411J7s8&cid=31220967&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"style="width: 640px; height: 430px; max-width: 100%" > </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=19141078&bvid=BV1pW411J7s8&cid=31220967&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%" > </iframe>
 
 
 
@@ -15,6 +15,7 @@
 :width: 400px
 :align: center
 ```
+
 
 
 ```{admonition} 注意

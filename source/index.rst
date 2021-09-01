@@ -6,5 +6,13 @@
 Welcome to bkxcyu's documentation!
 ====================================
 
+我将在这里分享一些有关BCI的数学直觉.
+
+
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Getting Started
+
    FT_Interactive_animation.md
+   ERP.md
