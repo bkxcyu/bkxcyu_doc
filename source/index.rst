@@ -16,3 +16,4 @@ Welcome to bkxcyu's documentation!
 
    FT_Interactive_animation.md
    ERP.md
+   src/CFC.ipynb

@@ -1,3 +1,5 @@
 myst-parser
+myst-nb
 nbsphinx
 sphinx-book-theme
+sphinx-togglebutton
